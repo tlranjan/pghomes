@@ -1,4 +1,4 @@
 pghomes
 =======
 
-PG Homes
+PG Homes is PG managment SaaS based software.
