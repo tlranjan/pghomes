@@ -1,0 +1,1 @@
+<table height="150"><tr><td><img height="150" width="178" src="images/box-type-home.gif"></td></tr></table>
